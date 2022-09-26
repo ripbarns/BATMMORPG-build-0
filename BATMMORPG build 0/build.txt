@@ -1,0 +1,47 @@
+build 0 (26-09-2022)
+
+    = Created functional map
+        = Map size is 1021x500 (957x480)
+    = Created functional player movement and collision
+    = Created functional save file
+
+    + Added folders, files, labels, variables
+        + BATMMORPG build 0
+            + BATMMORPG.bat
+                + :top
+                    + ~dp0
+                    + space
+                    + build
+                + :debug
+                    + debug
+                + :menu
+                    + errorlevel
+                + :info
+                + :new
+                    + x
+                    + y
+                + :save
+                + :continue
+                + :map
+                    + temp
+                    + a
+                    + line_{0-499}
+                + :move
+                + :collide
+                + :refresh
+                    + w
+                    + z
+                    + u{0-9}
+                    + d{0-9}
+                    + line_u{0-9}
+                    + line_d{0-9}
+                    + line_char
+                    + filler_x
+                    + filler_y
+                + :screen
+                + :error
+            + build.txt
+            + bin
+                + map.txt
+                + map.psd
+                + map.png
